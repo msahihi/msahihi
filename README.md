@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mo
 
+![Profile Status](https://komarev.com/ghpvc/?username=msahihi&color=blue&abbreviated=true&style=flat-square)
+
 ### 🚀 DevOps Engineer | Cloud & Automation Specialist
 
 I am a certified DevOps engineer specializing in building scalable, automated infrastructure and implementing GitOps workflows. With expertise in Kubernetes, Terraform, and cloud platforms like AWS and Azure, I focus on creating efficient, resilient, and secure systems. I am currently pursuing the CNCF Kubestronaut path by preparing for the CKA, CKS, and CKAD certifications.
@@ -9,7 +11,6 @@ I am a certified DevOps engineer specializing in building scalable, automated in
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   </p>
-
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +26,6 @@ I am a certified DevOps engineer specializing in building scalable, automated in
 <img src="https://img.shields.io/badge/ArgoCD-FAFAFA?logo=argo&logoColor=blue&style=flat" />
 <img src="https://img.shields.io/badge/Kyverno-3C3C3C?logo=kyverno&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white&style=flat" />
-
 
 🏗️ **Infrastructure as Code**
 <br/>
@@ -49,7 +49,6 @@ I am a certified DevOps engineer specializing in building scalable, automated in
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat" />
 
-
 ## 🏅 Certifications
 
 <p align="center">
@@ -66,7 +65,6 @@ I am a certified DevOps engineer specializing in building scalable, automated in
     <img src="https://img.shields.io/badge/View All Certifications on Credly-FF6B00?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Profile" />
   </a>
 </p>
-
 
 ## 📊 GitHub Stats & Activity
 
