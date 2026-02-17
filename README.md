@@ -29,6 +29,7 @@ I am an expert DevOps engineer at SAP Signavio, specializing in building enterpr
 ### Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/48d8bf74-a824-4404-bc2f-3efea88bd513/public_url"><img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" height="90" alt="KCNA" /></a>
+  <a href="https://www.credly.com/badges/6ebc981d-697a-4f49-a882-51cac5254e21/public_url"><img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" height="90" alt="KCNA" /></a>  
   <a href="https://www.credly.com/badges/c946b956-078e-449f-aa73-72d963a5c2c2/public_url"><img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" height="90" alt="CGOA" /></a>
   <a href="https://www.credly.com/badges/c69d98d4-5da5-46fc-9d63-5114be6c7659/public_url"><img src="https://images.credly.com/size/340x340/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" height="90" alt="Terraform" /></a>
 </p>
